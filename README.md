@@ -7,7 +7,7 @@
 
 # Инструкция по запуску
 1. Подготовка рабочей среды
-* Загрузите файл формата .ipynb (Jupiter notebook) на свое устройство
+* Загрузите файл Project_code формата .ipynb (Jupiter notebook) на свое устройство
 * Установите зависимости, указанные в первой строчке кода
 
 ```!pip install -q inference-sdk opencv-python matplotlib Pillow requests```
