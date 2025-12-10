@@ -7,12 +7,8 @@
 
 # Инструкция по запуску
 1. Подготовка рабочей среды
-* Загрузите файл Project_code формата .ipynb (Jupiter notebook) на свое устройство
-* Откройте данный файл на сайте google colab
+* Нажмите на кнопку ниже, чтобы открыть файл формата .ipynb с кодом в google colab (данный код работает ТОЛЬКО в google colab)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/t3stdr1v3/smoke_detection_project/blob/main/Project_code.ipynb)
-* Установите зависимости, указанные в первой строчке кода
-
-```!pip install -q inference-sdk opencv-python matplotlib Pillow requests```
 
 2. Запустите код от начала до конца, в некоторых местах нужна будет дополнительная информация
   * Этап 2. Запустите блок, после чего вам будет необходимо выбрать изображение формата .jpg с вашего устройства
